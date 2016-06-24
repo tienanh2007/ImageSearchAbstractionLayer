@@ -1,0 +1,22 @@
+{
+  "name": "image-search-abstraction-layer",
+  "version": "1.0.0",
+  "description": "search for images ",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tienanh2007/ImageSearchAbstractionLayer.git"
+  },
+  "keywords": [
+    "images"
+  ],
+  "author": "Tien Anh Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tienanh2007/ImageSearchAbstractionLayer/issues"
+  },
+  "homepage": "https://github.com/tienanh2007/ImageSearchAbstractionLayer#readme"
+}
